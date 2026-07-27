@@ -52,8 +52,9 @@ Documented honestly rather than glossed over:
 - `README.md` — this file
 - `/eda_plots, /cluster_plots, /outputs` — dashboard and result screenshots
 
-*The Power BI report (`.pbix`) is not included here due to file size; screenshots are in `/images` and the file is available on request.*
+*The Power BI report (`.pbix`) is not included here due to file size; screenshots are in `/eda_plots, /cluster_plots` and the file is available on request.*
 
 ## Data Source
 
 Iowa DOT Open Data Portal: https://icat.iowadot.gov/
+
