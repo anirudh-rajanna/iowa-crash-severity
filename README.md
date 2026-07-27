@@ -5,7 +5,7 @@ Machine learning analysis of Iowa vehicle crash data (2014–2024) to predict cr
 **Author:** Anirudh Rajanna
 **Tools:** Python (pandas, scikit-learn, matplotlib), Power BI
 
-![Iowa Crash Dashboard](dashboards/Screenshot_2026-07-27_112645.png)
+![Iowa Crash Dashboard](dashboards/Screenshot%202026-07-27%20112645.png)
 
 ---
 
