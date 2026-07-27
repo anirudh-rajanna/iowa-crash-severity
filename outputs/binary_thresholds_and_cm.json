@@ -1,0 +1,28 @@
+{
+  "LR_binary": {
+    "threshold_F1": 0.999,
+    "confusion_at_F1": [
+      [
+        115816,
+        278
+      ],
+      [
+        2481,
+        804
+      ]
+    ]
+  },
+  "RF_binary": {
+    "threshold_F1": 1.0,
+    "confusion_at_F1": [
+      [
+        116094,
+        0
+      ],
+      [
+        3285,
+        0
+      ]
+    ]
+  }
+}

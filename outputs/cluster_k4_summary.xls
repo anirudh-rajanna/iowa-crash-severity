@@ -1,0 +1,5 @@
+cluster_k4,month_safe_mean_k4,vehicles_safe_mean_k4,occupants_safe_mean_k4,injuries_safe_mean_k4,fatalities_safe_mean_k4,property_damage_safe_mean_k4,severity_bin_mean,severity_bin_count,severity_ord_mean
+0,2.892,1.667,3.378,0.127,0.003,,0.013,198948,3.799
+1,9.246,1.0,1.364,0.241,0.008,,0.037,132075,3.567
+2,6.346,2.122,4.224,1.519,0.02,,0.089,91742,2.496
+3,9.41,2.079,4.391,0.092,0.002,,0.004,174128,3.876

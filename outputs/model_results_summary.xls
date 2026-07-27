@@ -1,0 +1,7 @@
+Task,Model,Accuracy,Recall_Severe,Precision_Severe,ROC_AUC,PR_AUC,MacroF1
+Binary,Logistic Regression,0.861,0.877,0.151,0.937,0.413,
+Binary (tuned @F1),Logistic Regression,0.975,0.272,0.622,0.937,0.413,0.378
+Binary,Random Forest,0.978,0.213,0.96,0.931,0.427,
+Binary (tuned @F1),Random Forest,0.968,0.351,0.406,0.931,0.427,0.377
+Five-Class,Logistic Regression,0.856,,,,,0.637
+Five-Class,Random Forest,0.89,,,,,0.623

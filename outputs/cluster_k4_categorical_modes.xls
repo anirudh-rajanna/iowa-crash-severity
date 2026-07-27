@@ -1,0 +1,5 @@
+cluster_k4,weather,light,surface,road_type,environment,weekday
+0,Clear,Daylight,Dry,Non-intersection:  Non-junction/no special feature,None apparent,Friday
+1,Clear,Daylight,Dry,Non-intersection:  Non-junction/no special feature,None apparent,Saturday
+2,Clear,Daylight,Dry,Intersection:  Four-way intersection,None apparent,Friday
+3,Clear,Daylight,Dry,Non-intersection:  Non-junction/no special feature,None apparent,Friday
