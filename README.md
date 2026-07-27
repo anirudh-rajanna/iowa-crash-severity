@@ -50,7 +50,7 @@ Documented honestly rather than glossed over:
 
 - `Iowa_Crash_Severity_Analysis.ipynb` — full analysis notebook (data prep, modeling, clustering)
 - `README.md` — this file
-- `/images` — dashboard and result screenshots
+- `/eda_plots, /cluster_plots, /outputs` — dashboard and result screenshots
 
 *The Power BI report (`.pbix`) is not included here due to file size; screenshots are in `/images` and the file is available on request.*
 
